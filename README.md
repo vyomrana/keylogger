@@ -1,7 +1,7 @@
-## Disclaimer
+# Disclaimer
 This keylogger is intended for educational purposes only. Use it responsibly and ethically. Unauthorized use of keylogging software is illegal and can lead to severe consequences. Always obtain explicit permission from the device owner before using this tool.
 
-# Keylogger Console App
+## Keylogger Console App
 
 This is a simple keylogger console application created using Python and the `pynput` library. It logs all key presses to a file named `keylogger.txt`.
 
