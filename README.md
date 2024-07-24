@@ -8,7 +8,8 @@ This is a simple keylogger console application created using Python and the `pyn
 - Simple console interface for starting and stopping the keylogger.
   
 ## Requirements
-
+- Python 3
+- pynput library
 
 ## Usage
 1. Run the script:
