@@ -6,7 +6,10 @@ This is a simple keylogger console application created using Python and the `pyn
 - Logs normal and special keys.
 - Stops logging when the `Esc` key is pressed.
 - Simple console interface for starting and stopping the keylogger.
+  
+## Requirements
+
 
 ## Usage
-1. Run the script: (Commands in terminal)
-   python keylogger_console_app.py
+1. Run the script:
+   python Keylogger.py
